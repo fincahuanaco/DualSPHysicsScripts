@@ -1,12 +1,11 @@
 Parent
 
-|run_CPU.sh
-
+|run_CPU.sh<br>
 +Child
-  |run.sh
+  |run.sh <br>
 
-
-Child Folder
+Child Folder<br>
 https://raw.githubusercontent.com/fincahuanaco/DualSPHysicsScripts/master/Euler/run.sh
-Parent Folder
+
+Parent Folder<br>
 https://raw.githubusercontent.com/fincahuanaco/DualSPHysicsScripts/master/Euler/run_CPU.sh
