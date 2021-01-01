@@ -1,8 +1,5 @@
-Parent
-
-|run_CPU.sh<br>
-+Child<br>
-  |run.sh <br>
+Parent     ---> Child<br>
+run_CPU.sh ---> run.sh<br>
 
 Child Folder<br>
 https://raw.githubusercontent.com/fincahuanaco/DualSPHysicsScripts/master/Euler/run.sh
