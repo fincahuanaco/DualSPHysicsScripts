@@ -1,7 +1,7 @@
 Parent
 
 |run_CPU.sh<br>
-+Child
++Child<br>
   |run.sh <br>
 
 Child Folder<br>
